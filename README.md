@@ -1,6 +1,6 @@
 _____________________________
 
-Snapshots are taken automatically every 6 hours starting at 00:00 UTC
+## **Snapshots are taken automatically every 6 hours starting at 00:00 UTC**
 <br/>pruning: 100/0/19 | indexer: null | version tag: v0.19.2
 
 _____________________________
