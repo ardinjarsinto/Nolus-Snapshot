@@ -7,7 +7,7 @@ _____________________________
 - RPC : https://rpc.nolus.devononft.com
 - gRPC : https://grpc.nolus.devononft.com
 - API : https://api.nolus.devononft.com
-- Snapshots : https://snapshot.nolus.devononft.com
+- Snapshots : https://snapshot.nolus.devononft.com/nolus
 _____________________________
 
 ## Instructions
